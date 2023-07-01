@@ -1,0 +1,46 @@
+.navbar-brand{
+    font-weight: bold;
+}
+.container{
+    margin-top: 2em;
+}
+h1{
+    text-align: center;
+}
+
+#temp_head{
+    border-color: black;
+}
+#temp_body{
+    border-color: black;
+    background-color:black;
+    opacity: .8;
+    color: white;
+}
+
+#wind_head{
+    border-color: black;
+}
+#wind_body{
+    border-color: black;
+    background-color:black;
+    opacity: .8;
+    color: white;
+}
+
+#cloud_head{
+    border-color: black;
+}
+#cloud_body{
+    border-color: black;
+    background-color:black;
+    opacity: .8;
+    color: white;
+}
+
+main{
+    margin: top 1em;
+}
+#q_view{
+    font-weight: bold;
+}
